@@ -4,7 +4,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/Shroomlight-Studio)
 [![GitHub Org's stars](https://img.shields.io/github/stars/Shroomlight-Studio?style=social)](https://github.com/Shroomlight-Studio)
 
-[![Shroomlight Studio Icon](assets/shroomlight_logo.png)](https://github.com/Shroomlight-Studio)
+[![Shroomlight Studio Icon](/assets/shromlight_logo.png)](https://github.com/Shroomlight-Studio)
 
 Welcome to **Shroomlight Studio** – a creative hub for projects ranging from software development to digital art and interactive experiences.
 
