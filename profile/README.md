@@ -22,12 +22,12 @@ Shroomlight Studio is dedicated to crafting high-quality software and creative p
 
 Some of our current and past repositories include:
 
-- **[Codi](https://github.com/Shroomlight-Studio/Codi)** – A modular and extensible game engine for creating interactive applications.  
+- **[Shroom](https://github.com/Shroomlight-Studio/Shroom)** – A modular and extensible game engine for creating interactive applications.  
 
-> 📈 GitHub stats for Codi  
-[![Codi Stars](https://img.shields.io/github/stars/Shroomlight-Studio/Codi?style=social)](https://github.com/Shroomlight-Studio/Codi/stargazers)
-[![Codi Forks](https://img.shields.io/github/forks/Shroomlight-Studio/Codi?style=social)](https://github.com/Shroomlight-Studio/Codi/network/members)
-[![Codi Issues](https://img.shields.io/github/issues/Shroomlight-Studio/Codi)](https://github.com/Shroomlight-Studio/Codi/issues)
+> 📈 GitHub stats for Shroom  
+[![Shroom Stars](https://img.shields.io/github/stars/Shroomlight-Studio/Shroom?style=social)](https://github.com/Shroomlight-Studio/Shroom/stargazers)
+[![Shroom Forks](https://img.shields.io/github/forks/Shroomlight-Studio/Shroom?style=social)](https://github.com/Shroomlight-Studio/Shroom/network/members)
+[![Shroom Issues](https://img.shields.io/github/issues/Shroomlight-Studio/Shroom)](https://github.com/Shroomlight-Studio/Shroom/issues)
 
 ## License
 
